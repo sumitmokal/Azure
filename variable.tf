@@ -11,5 +11,5 @@ variable "location" {
 }
 
 variable "prefix" {
-  default = "tfvmex140520211"
+  default = "tfvmex140520212"
 }
